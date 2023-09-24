@@ -1,2 +1,3 @@
 # NextWordGenerator
-Used Transformers, LLM to generate text
+Predict Next Word using LSTM, Transformers, Pretrained models
+
